@@ -1,9 +1,27 @@
 #include<stdio.h>
 
-int rat();
-int irat();
-
 int main(){
+<<<<<<< HEAD
+    cross_x();
+    return 0;
+}
+
+//cross-x
+int cross_x(){
+    int n=9;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n;j++){
+            if(j==i || j==(n-i+1)){
+                printf("%d", i);
+            }
+            else{
+                printf(" ");
+            }
+        }
+        printf("\n");
+    }
+=======
+>>>>>>> edd8150b947a21e9be5be9ed2d62f9f7348b0bd9
     return 0;
 }
 
