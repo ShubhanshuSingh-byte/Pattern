@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int main(){
+<<<<<<< HEAD
     cross_x();
     return 0;
 }
@@ -19,6 +20,8 @@ int cross_x(){
         }
         printf("\n");
     }
+=======
+>>>>>>> edd8150b947a21e9be5be9ed2d62f9f7348b0bd9
     return 0;
 }
 
