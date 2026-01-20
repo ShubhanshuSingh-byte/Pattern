@@ -4,7 +4,6 @@ int rat();
 int irat();
 
 int main(){
-    heqt();
     return 0;
 }
 
